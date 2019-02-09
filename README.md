@@ -1,5 +1,5 @@
 ### Tarefas
-Aplicação permite acompanhar tareas do dia dia.
+Aplicação permite acompanhar tarefas do dia dia.
 
 ### Link para aplicação
 https://emersonspereira.github.io/tarefas/
